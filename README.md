@@ -2,7 +2,7 @@
 
 A structured collection of Data Structures & Algorithms problems solved across multiple platforms, using multiple languages, as part of my journey to strengthen problem-solving skills and prepare for technical interviews.
 
-![Progress](https://img.shields.io/badge/Problems%20Solved-0-blue)
+![Progress](https://img.shields.io/badge/Problems%20Solved-40-blue)
 ![Languages](https://img.shields.io/badge/Languages-C%2B%2B%20%7C%20Java%20%7C%20Python-orange)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-July%202026-green)
 
