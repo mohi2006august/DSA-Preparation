@@ -60,7 +60,7 @@ Each problem folder typically contains:
 
 ### 🔥 Streak
 - Current streak: **0 days**
-- Longest streak: **0 days**
+- Longest streak: **5 days**
 
 ---
 
